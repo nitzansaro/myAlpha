@@ -37,6 +37,7 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
+
     private void updateUI(FirebaseUser currentUser) {
 
 
@@ -88,7 +89,5 @@ public class MainActivity extends AppCompatActivity {
 
         return super.onOptionsItemSelected(item);
     }
-
-
 
 }
